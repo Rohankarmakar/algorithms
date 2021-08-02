@@ -1,5 +1,3 @@
-package intro1;
-
 import java.util.Scanner;
 
 public class TowerOfHanoi {
